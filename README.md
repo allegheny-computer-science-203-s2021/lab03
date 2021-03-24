@@ -33,17 +33,17 @@ please ensure that:
 
 - You participated in the planning and all three scrum meetings of sprint 1.
 
-- You completed all sprint 1 assigned tasks, for example, you made significant contributions to your team's feature branch for sprint 1, as evidenced by commits to the branch.
+- You completed all sprint 1 assigned tasks, for example, you made significant contributions to your team's  branch for sprint 1, as evidenced by commits to the branch.
 
-- You made significant contributions towards your team's merge of your feature branch to the master branch of the GatorMiner using the GitHub Flow model. If this task was not accomplished by your team, a clear documentation of the issues that you have encountered.
+- You made significant contributions towards your team's merge of your team branch to the master branch of the GatorMiner using the GitHub Flow model. If this task was not accomplished by your team, provide a clear documentation of the problems that you have encountered.
 
 - You contributed to your scrum lead's management of the ZenHub board.
 
-- The sprint 1 does not have any unresolved issues in it that you could have already handled.
+- Sprint 1 does not have any unresolved issues in it that you could have already handled.
 
 - This GitHub repository contains a completed reflection file.
 
-*Please note that if you took a role of a **scrum lead**, although you are expected to contribute to development, you are not expected to contribute to implementation as much as your development team since  your main tasks include organizing meetings, making sure everyone is on track (help resolve issues as needed), checking in with your product manager to keep them informed, and organizing ZenHub board with input from your team and the chief scrum lead. Additionally, if you are a chief scrum lead, you will need to communicate with all scrum leads to ensure proper collaboration and avoidance of conflicts among the work done by all teams.*
+*Please note that if you took a role of a **scrum lead**, although you are expected to contribute to development, you are not expected to contribute to implementation as much as your development team since  your main tasks include organizing meetings, making sure everyone is on track (help resolve issues as needed), checking in with your product owner to keep them informed, and organizing ZenHub board with input from your team, the chief scrum lead, and product owners (TLs). Additionally, if you are a *chief scrum lead*, you will need to communicate with all scrum leads to ensure proper collaboration and avoidance of conflicts among the work done by all teams.*
 
 ## Objectives
 

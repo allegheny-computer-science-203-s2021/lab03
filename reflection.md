@@ -57,7 +57,7 @@ Please provide references to the GitHub pull requests to which you contributed t
 
 - [PR](Add a URL)
 
-If you were a scrum lead, please briefly describe your contributions related to that role. 
+If you were a scrum lead, please briefly describe your contributions related to that role.
 
 ## At a high level, what were the most important professional tasks that you completed?
 

@@ -2,6 +2,9 @@
 
 ## Summary Task List for the Laboratory Assignment
 
+Add checkmarks to completed tasks.
+
+- [ ] Participated in previous sprint review and retrospective.
 - [ ] Used ZenHub board.
 - [ ] Contributed to the GitHub Issue Tracker (this effort should be made by a team as a whole).
 - [ ] Contributed to the GitHub Pull Requests (this effort should be made by a team as a whole).
@@ -14,7 +17,7 @@
 
 ### Sprint 0 review
 
-Which tasks were finished and which were not? For the tasks that were not completed explain why not and how will they be dealt with in sprint 1.
+Which tasks were finished and which were not? For the tasks that were not completed, explain why not and how will they be dealt with in sprint 1.
 
 ### Summary of sprint 0 retrospective
 
@@ -68,7 +71,7 @@ Please provide references to the GitHub pull requests to which you contributed t
 
 ## Did you follow the code of conduct during the completion of this project?
 
-Please answer yes or no to this question.
+Please answer yes or no to this question. Make sure you have signed the Code of Conduct document.
 
 ## Did you observe someone who did not follow the code of conduct? Who? How?
 

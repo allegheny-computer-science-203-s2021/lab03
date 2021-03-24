@@ -43,6 +43,8 @@ please ensure that:
 
 - This GitHub repository contains a completed reflection file.
 
+*Please note that if you took a role of a **scrum lead**, although you are expected to contribute to development, you are not expected to contribute to implementation as much as your development team since  your main tasks include organizing meetings, making sure everyone is on track (help resolve issues as needed), checking in with your product manager to keep them informed, and organizing ZenHub board with input from your team and the chief scrum lead. Additionally, if you are a chief scrum lead, you will need to communicate with all scrum leads to ensure proper collaboration and avoidance of conflicts among the work done by all teams.*
+
 ## Objectives
 
 * To practice scrum agile methodology in the long-term software engineer project.

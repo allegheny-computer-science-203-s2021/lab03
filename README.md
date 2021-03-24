@@ -14,8 +14,6 @@
 
 * [Assignment Assessment](#assignment-assessment)
 
-* [Reporting Problems](reporting-problems)
-
 * [Receiving Assistance](receiving-assistance)
 
 ## Summary
@@ -117,14 +115,6 @@ components.
 
 All grades for this project will be reported through a student's gradebook GitHub
 repository.
-
-## Reporting Problems
-
-If you have any problems with the completion of this assignment, then please
-create an issue in this repository using the "Issues" link at the top of this
-site. Before this assignment is submitted by the due date, all the issues in
-this repository should have been assigned to a team member, discussed, handled,
-marked as resolved, and then closed.
 
 ## Receiving Assistance
 

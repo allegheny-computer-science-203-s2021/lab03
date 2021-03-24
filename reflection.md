@@ -25,7 +25,7 @@ How did you do as a team? What team strategies will you continue to employ? How 
 
 ## Sprint 1 Planning
 
-Please provide a summary of issues your team decided to tackle during sprint 1 and indicate your specific tasks.
+Please provide a summary of tasks your team decided to tackle during sprint 1 and indicate your specific tasks. Please specify the issues by their number in the GatorMiner GitHub issue tracker.
 
 ## Scrum Meetings
 

@@ -49,11 +49,11 @@ please ensure that:
 
 * To practice scrum agile methodology in the long-term software engineer project.
 
-* To experience planning, estimation, task generation, and implementation during a sprint.
+* To experience planning, [estimation](, task generation, and implementation during a sprint.
 
-* To continue to learn how to use ZenHub boards to manage a software project.
+* To continue to learn how to use ZenHub board and its [sprint](https://help.zenhub.com/support/solutions/articles/43000611544) functionality to manage a software project.
 
-* To continue to learn how to use GitHub and the GitHub Flow model to support collaboration among a team of software engineers.
+* To continue to learn how to use GitHub and the GitHub Flow model, including [Git branch naming conventions](https://deepsource.io/blog/git-branch-naming-conventions/) to support collaboration among a team of software engineers.
 
 * To continue to learn how to use Markdown to complete technical writing tasks.
 
@@ -130,6 +130,6 @@ marked as resolved, and then closed.
 
 If you are having trouble completing any part of this project, then please talk
 with either the course instructor or a student technical leader during the
-course session. Alternatively, you may ask questions in the Slack workspace for
+lab session. Alternatively, you may ask questions in the Slack workspace for
 this course. Finally, you can schedule a meeting during the course instructor's
 office hours.
